@@ -22,7 +22,7 @@ notifications:
 deploy:
     provider: pages
     skip-cleanup: true
-    local_dir: .vuepress/dist
+    local_dir: docs
     github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
     repo: jamcha-aa/travisci
     keep-history: true
