@@ -23,6 +23,6 @@ This novel is licensed under the [Creative Commons Attribution Share Alike 4.0 I
 
 [![Build Status](https://travis-ci.org/jamcha-aa/travisci.svg?branch=master)](https://travis-ci.org/jamcha-aa/travisci)  
 
-Made with [Nextcloud Markdown Editor](https://github.com/icewind1991/files_markdown)  
+Written with [Nextcloud Markdown Editor](https://github.com/icewind1991/files_markdown) and [NextCloud Notes](https://github.com/nextcloud/notes)  
 
 Published with [VuePress](https://vuepress.vuejs.org/)  
