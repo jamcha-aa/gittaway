@@ -19,6 +19,8 @@ Copyright (c) 2019 jamcha (jamcha.aa@gmail.com).
 
 This novel is licensed under the [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed)  
 
+Travis CI and its logo are copyrighted works of Travis GmbH.
+
 ![cc by-sa](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)  
 
 [![Build Status](https://travis-ci.org/jamcha-aa/travisci.svg?branch=master)](https://travis-ci.org/jamcha-aa/travisci)  
