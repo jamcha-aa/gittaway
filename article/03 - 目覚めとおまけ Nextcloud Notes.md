@@ -27,7 +27,7 @@ ThinkPadが機械的に言った。
 
 ![nextcloud-notes ss](./notes.png)
 
-「Travisは次からがんばるとして、私のファイル置き場『 [Nextcloud](https://nextcloud.com) 』には [Notes](https://github.com/nextcloud/notes) という便利なアプリがありして」『ありして』「あ・り・ま・し・て！」『うむ』「Markdown用のショートカットがあるのに本家のwikiには書かれてなかったのでここにまとめておきます」
+「Travisは次からがんばるとして、私のファイル置き場に導入している『 [Nextcloud](https://nextcloud.com) 』には [Notes](https://github.com/nextcloud/notes) という便利なアプリがありして」『ありして』「あ・り・ま・し・て！」『うむ』「Markdown用のショートカットがあるのに本家のwikiには書かれてなかったので、スペースの余ったここにまとめておきます」
 
 |  ショートカットキー | 機能 |
 | --- | --- |
