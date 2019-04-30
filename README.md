@@ -10,6 +10,8 @@ actionLink: /article/01%20-%20%E3%81%82%E3%81%AE%E9%BB%92%E3%81%84%E7%94%BB%E9%9
 
 スマホの場合は画面左上の「≡」で目次の表示/非表示ができます。
 
+Travis CIの設定方法だけ知りたい方は [04 陽気な仲間](https://jamcha-aa.github.io/travisci/article/04%20-%20%E9%99%BD%E6%B0%97%E3%81%AA%E4%BB%B2%E9%96%93.html) をご覧ください。
+
 <br>
 <br>
 
